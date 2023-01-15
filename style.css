@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header{
+    border: 4px solid blue;
+    border-radius: 8px;
+    color: darkblue;
+    padding: 5px;
+    
+}
+header a{
+    border: 1px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 4px;
+    margin: 8px;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 32px;
+}
+footer p{
+    border: 2px solid grey;
+    padding-left: 5px;
+    margin-left: 40px;
+}
+.contact{
+    padding-left: 30px;
+    font-family: Arial;
+}
+nav a{
+    border: 3px solid navy;
+    margin: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    background-color: navy;
+    text-decoration: none;
+    padding: 3px;
+}
+.products{
+    background-color: white;
+    color: navy;
+}
+.f{
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+h2{
+    color: blue;
+}
+h2, p, img, a{
+    margin-left: 10px;
+}
+a{
+    background-color: white;
+    color: navy;
+    text-decoration: none;
+    border: 2px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
